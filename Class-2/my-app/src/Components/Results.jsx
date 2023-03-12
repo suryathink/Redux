@@ -20,7 +20,7 @@ const Results = () => {
       <dt><b>Name</b></dt>
       <dd style={{color:"green"}}>{data.name}</dd>
       <dt><b>City</b></dt>
-      <dd style={{color:"pink"}}>{data.city}</dd>
+      <dd style={{color:"red"}}>{data.city}</dd>
      </dl>
     </div>
   );
